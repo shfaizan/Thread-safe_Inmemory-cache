@@ -2,6 +2,8 @@
 
 This project implements a thread-safe in-memory cache with expiration and eviction policies in C++. The cache supports storing key-value pairs, retrieving values, automatic expiration of entries, and eviction based on capacity.
 
+This project demonstrates advanced C++ concepts like multi-threading, data structures (unordered_map and list), and thread synchronization using mutex.
+
 ## Features
 
 - **Thread-safe**: Multiple threads can safely interact with the cache concurrently.
@@ -84,4 +86,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * The implementation demonstrates thread-safe programming and cache management techniques in C++.
 
 
-This project demonstrates advanced C++ concepts like multi-threading, data structures (u
+
+
+
